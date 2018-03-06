@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.96",
-    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.96/Filmplicity.Setup.0.0.96.exe",
-    "version": "0.0.96"
+    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.97",
+    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.97/Filmplicity.Setup.0.0.97.exe",
+    "version": "0.0.97"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/darwin-x64-prod-v0.0.96/release.json",
