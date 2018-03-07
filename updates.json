@@ -10,8 +10,8 @@
     "version": "0.0.97"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.97",
-    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.97/Filmplicity.Setup.0.0.97.exe",
-    "version": "0.0.97"
+    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.98",
+    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.98/Filmplicity.Setup.0.0.98.exe",
+    "version": "0.0.98"
   }
 }
