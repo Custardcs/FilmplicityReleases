@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.108",
-    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.108/Filmplicity.Setup.0.0.108.exe",
-    "version": "0.0.108"
+    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.109",
+    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-x64-prod-v0.0.109/Filmplicity.Setup.0.0.109.exe",
+    "version": "0.0.109"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/darwin-x64-prod-v0.0.108/release.json",
@@ -10,8 +10,8 @@
     "version": "0.0.108"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.109",
-    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.109/Filmplicity.Setup.0.0.109.exe",
-    "version": "0.0.109"
+    "update": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.108",
+    "install": "https://github.com/Custardcs/FilmplicityReleases/releases/download/win32-ia32-prod-v0.0.108/Filmplicity.Setup.0.0.108.exe",
+    "version": "0.0.108"
   }
 }
